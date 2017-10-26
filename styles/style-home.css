@@ -1,0 +1,89 @@
+
+.topnav {
+  overflow: hidden;
+  background-color: #9EDFF7;
+  }
+
+.topnav a {
+  float:left;
+  display: inline;
+  color: #EC2D52;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align:right;
+  text-decoration:none;
+  padding: 30px 10px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;}
+
+.topnav a:hover {
+  background-color: #F3D734;
+  color: mediumaquamarine;
+}
+
+.topnav a.active {
+   color: #F3D734;}
+
+
+img {width: 940ppx; /* I would like to remove the space from the top, but can't. I tried using padding-top:0px and it did not work */
+    height: 460px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10px;}
+  
+  
+body {margin:50px;
+}
+
+article 
+{margin:75px;}
+
+p {font-family: Calibri, sans-serif;
+  color: black; 
+  text-align: justify;
+}
+
+h2 { font-family: Calibri, sans-serif;
+  color: mediumaquamarine;
+}
+
+#footertext {
+font-family: Calibri, sans-serif;
+color:mediumaquamarine;
+display: inline;
+font-size: 40px;
+font-weight: 400;
+text-decoration-line:underline;
+text-decoration-color: deeppink;
+padding: 5px;
+}
+
+
+.footer {
+  overflow: hidden;
+  background-color: #9EDFF7;
+ }
+
+.left {text-align: left;
+  float:left;  
+}
+
+.right{float: right;
+text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.footer {
+overflow: hidden;
+background-color: #F3D734;
+text-align:center;
+padding: 40px 40px;
+margin: 0 auto;
+ }
+
+
+
+
